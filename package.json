@@ -1,0 +1,21 @@
+{
+  "name": "heroku-error-pages",
+  "version": "0.1.0",
+  "description": "This repository contains error pages for various apps I have deployed on Heroku.",
+  "main": "index.js",
+  "scripts": {
+    "build": "cd src && npm run build",
+    "start": "cd src && npm start",
+    "postinstall": "cd src && npm install"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WKHAllen/heroku-error-pages.git"
+  },
+  "author": "Will Allen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WKHAllen/heroku-error-pages/issues"
+  },
+  "homepage": "https://github.com/WKHAllen/heroku-error-pages#readme"
+}
